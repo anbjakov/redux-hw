@@ -14,5 +14,4 @@ export const withdraw = (value)=> (
 
 export const reset = ()=>({
     type: RESET,
-    payload: 0
 })
